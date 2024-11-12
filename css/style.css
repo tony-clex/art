@@ -23,6 +23,12 @@ header h1 {
   margin-bottom: 10px;
 }
 
+h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #444;
+}
+
 .background h3 {
   text-align: center;
   color: goldenrod;
@@ -72,8 +78,13 @@ header p {
   color: goldenrod;
 }
 
+ul li {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
 .smaller ul li {
-    margin-left: -6%;
+  margin-left: -6%;
 }
 
 .pictures img {
@@ -84,20 +95,9 @@ section {
   padding: 40px 0;
 }
 
-h2 {
-  font-size: 2rem;
-  margin-bottom: 20px;
-  color: #444;
-}
-
 ul {
   list-style-type: none;
   margin-left: 20px;
-}
-
-ul li {
-  font-size: 1.1rem;
-  margin-bottom: 10px;
 }
 
 .tony {
