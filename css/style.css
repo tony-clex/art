@@ -91,14 +91,8 @@ footer a:hover {
   text-decoration: underline;
 }
 
-@media (min-width: 1024px)
-  body {
-    padding: 5%;
-    padding-top: -7%;
-
-  }
-
-  header {
+@media (min-width: 1024px) {
+  .header {
     background-image: url(../image/image0.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -162,3 +156,4 @@ footer a:hover {
   .cta {
     background-color: #d43f16;
   }
+}
